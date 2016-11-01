@@ -1,3 +1,5 @@
 print "hello world"
 def getAge():
 	return age
+for i in n:
+	eat stuff
