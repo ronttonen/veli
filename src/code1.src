@@ -1,0 +1,3 @@
+print "hello world"
+def getAge():
+	return age
