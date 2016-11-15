@@ -1,0 +1,7 @@
+a = "JUST"
+b = "DO"
+c = "IT!"
+
+print (a + b + c)
+
+ShiaLebeouf
