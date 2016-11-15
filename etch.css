@@ -1,0 +1,22 @@
+.container {
+	height: 100%;
+	width: 100%;
+	text-align: center;
+
+}
+
+.wrapper {
+	height: 360px;
+	width: 360px;
+	margin: 30px auto;
+}
+
+.unit {
+
+	border: 1px solid black;
+	float: left;
+}
+
+.black-unit {
+	background-color: red;
+}
