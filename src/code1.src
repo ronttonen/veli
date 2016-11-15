@@ -3,3 +3,13 @@ def getAge():
 	return age
 for i in n:
 	eat stuff
+
+def turtles():
+	while True:
+		print("Turtle!")
+
+print("Wee need more turtles!")
+
+input("want turtles?")
+
+turtles()
